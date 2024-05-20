@@ -9,7 +9,7 @@ namespace HelloCD
     class Program
     {
         private static int majorVersion = 1;
-        private static int minorVersion = 7;
+        private static int minorVersion = 8;
         static void Main(string[] args)
         {
             string versionNumber = majorVersion.ToString() + "." + minorVersion.ToString();
