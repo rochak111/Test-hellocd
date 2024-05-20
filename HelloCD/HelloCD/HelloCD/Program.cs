@@ -15,7 +15,7 @@ namespace HelloCD
             string versionNumber = majorVersion.ToString() + "." + minorVersion.ToString();
             string message = "Hello CD! This program is version number";
             Console.WriteLine(message + " " + versionNumber);
-            Console.WriteLine(message + "   test ftp ");
+            Console.WriteLine(message + "   test ftp again ");
             Console.WriteLine("Press any key to exit.");
             Console.ReadLine();
         }
